@@ -18,7 +18,7 @@ B084D-WK2-PM1 | CYBERSECURITY | NETWORKWALKS
 
 ## 1. Liability Disclaimer
 
-I have performed these activities only on the systems and devices where I had secured written permission, or on devices and systems that I own myself. All materials here are for education and research purposes only. Do not use anything from here to break the law. The instructor, the authors and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries, unauthorized access is a crime even when nothing is damaged.
+I have performed these activities only on the systems and devices where I had secured written permission, or on devices and systems that I own myself. All materials here are for education and research purposes only. 
 
 ## 2. Introduction
 
