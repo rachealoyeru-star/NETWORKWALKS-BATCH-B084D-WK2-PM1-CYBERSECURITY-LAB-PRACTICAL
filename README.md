@@ -9,10 +9,10 @@ B084D-WK2-PM1 | CYBERSECURITY | NETWORKWALKS
 | **Pentester Name (Cybersecurity Professional)** | **OYERU RACHAEL EMALOHI** |
 | **Program/Batch** | B084D-Networkwalks |
 | **Date** | 11–12 November 2026 |
-| **Modules completed** | W2-PM1 (Multiple Kali Tools & Zenmap Scanning) |
+| **Modules completed** | W2-PM1,W2-PM2,W2-PM3,W2-PM4 and W2-PM5 |
 | **Client/Target** | 1. Networkwalks (`networkwalks.com`) <br> 2. My own local network (`172.20.x.x/28`, address partly hidden for privacy) |
 | **Permission secured from client?** | **YES** |
-| **Phases covered** | **Phase 1:** Reconnaissance & Footprinting <br> **Phase 2:** Scanning & Network Discovery <br> **Phase 3-5:** In Progress |
+| **Phases covered** | **Phase 1:** Reconnaissance & Footprinting <br> **Phase 2:** Scanning & Network Discovery <br> |
 
 ---
 
